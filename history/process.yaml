@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSSM-RID26-07-NUTNRB000-telemetered-suna_dcl_recovered
 data_stream: CE04OSSM-RID26-07-NUTNRB000-telemetered-suna_dcl_recovered
 end_date: '2022-02-07T16:33:12.237Z'
-last_updated: '2022-02-09T11:02:11.428831Z'
+last_updated: '2022-02-09T11:07:09.748292'
 start_date: '2018-04-03T18:30:30.577Z'
-status: pending
+status: success
